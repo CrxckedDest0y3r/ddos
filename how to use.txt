@@ -1,0 +1,5 @@
+run this before doing anything
+yum install npm -y; npm cloudscraper; yum install perl -y
+
+for .pl scripts you use `perl <script>.pl`
+for .js scripts you use `node <script>.js`
